@@ -10,7 +10,6 @@
 
 **Jawab AI:**
 Menggunakan `$request->validate([...])` pada function store dan update.
-(Paste kode solusi validasi di sini atau ringkasannya)
 
 ## Sesi 2: Perbaikan Fitur Edit & Hapus
 
